@@ -401,7 +401,7 @@ a:focus, a:hover, a:active {
   border-color: #1a252f;
 }
 .gallery {
-    margin: 27px;
+    margin: 10px;
 
     border: 1px solid #ccc;
     float: left;
